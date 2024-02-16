@@ -14,7 +14,7 @@ This document lists the certifications I have earned as part of my professional 
 
 ## Information Technology
 
-### CS50
+### CS50 (HarvardX)
 - **Certificate URL:** [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/ES9YGRDRK99R)
 <br><br>![CS50x A4](https://github.com/kralchris/Certifications/assets/90260861/8a79d64a-8115-498f-97df-b59929f65c59)
 
