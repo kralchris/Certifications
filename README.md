@@ -2,6 +2,22 @@
 
 This document lists the certifications I have earned as part of my professional development in data science, machine learning, back-end development, IT support, and financial markets.
 
+## Azure
+
+### Microsoft Certified: Azure Data Engineer Associate
+- **Certificate URL:** [View Certificate](https://learn.microsoft.com/api/credentials/share/en-gb/Kristijan/F23DD3CAAFAD81D4?sharingId)
+<br><br><img width="1328" height="741" alt="Data Engineer" src="https://github.com/user-attachments/assets/759ef258-6547-4e33-8b8a-a2c7e451a7c3" />
+
+### Microsoft Certified: Azure Data Scientist Associate
+- **Certificate URL:** [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/Kristijan/6B8CA800B7346A6B?sharingId)
+<br><br><img width="1327" height="742" alt="Data Scientist" src="https://github.com/user-attachments/assets/9f1c2cc1-2b63-40cd-b12e-c2339195e0d8" />
+
+
+### Microsoft Certified: Azure AI Engineer Associate
+- **Certificate URL:** [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/Kristijan/2D066A800F6C6AE2?sharingId)
+<br><br><img width="1331" height="742" alt="AI Engineer" src="https://github.com/user-attachments/assets/a8f30983-8c41-494d-98b6-41c902946f94" />
+
+
 ## Data Science and ML
 
 ### IBM Data Science: Professional Certificate (10 Courses)
